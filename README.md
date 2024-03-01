@@ -1,0 +1,1 @@
+# sudoku_qt_quick
