@@ -24,9 +24,9 @@ This is a cross-platform (both desktop and mobile) Sudoku Qt Quick application. 
 
 ## Android <a name = "android"></a>
 
-You can download this app: [Download .apk installer for Android](https://drive.google.com/uc?export=download&id=1u5SSjrrYMid69TK2etZfdfRmCtFpRxmz)
++ You can download this app: [Download .apk installer for Android](https://drive.google.com/uc?export=download&id=1u5SSjrrYMid69TK2etZfdfRmCtFpRxmz)
 
-Application appearance:
++ Application appearance:
 
 <div>
     <img src="https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/d6cd60a3-e2a4-422c-bce0-c3903a5ae79b" alt="Image 1" style="width: 48%;">
@@ -40,9 +40,9 @@ Application appearance:
 
 ## Windows <a name = "windows"></a>
 
-You can download this app: [Download .exe installer for Windows](https://drive.google.com/uc?export=download&id=1SYIAYf9q2uGYmGrrCkbewgv1m3bx2CoC)
++ You can download this app: [Download .exe installer for Windows](https://drive.google.com/uc?export=download&id=1SYIAYf9q2uGYmGrrCkbewgv1m3bx2CoC)
 
-Application appearance:
++ Application appearance:
 
 ![image](https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/cb2892a0-e2b4-4309-af97-e5bb5ff2864c)
 
@@ -52,8 +52,8 @@ Application appearance:
 
 ## Resources <a name = "resources"></a>
 
-[Qt Open Source](https://www.qt.io/download-open-source)
++ [Qt Open Source](https://www.qt.io/download-open-source)
 
 ## License <a name = "license"></a>
 
-[License](https://github.com/vladislav-bordiug/sudoku_qt_quick/blob/main/LICENSE) - this project is licensed under GPL-3.0 license.
++ [License](https://github.com/vladislav-bordiug/sudoku_qt_quick/blob/main/LICENSE) - this project is licensed under GPL-3.0 license.
