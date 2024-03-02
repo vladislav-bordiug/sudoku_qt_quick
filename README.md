@@ -4,12 +4,12 @@ This is a cross-platform (both desktop and mobile) Sudoku Qt Quick application. 
 
 ## Table of Contents
 
-+ [Features](#Features)
-+ [Android](#Android)
-+ [Windows](#Windows)
-+ [License](#License)
++ [Features](#features)
++ [Android](#android)
++ [Windows](#windows)
++ [License](#license)
 
-## Features <a name = "Features"></a>
+## Features <a name = "features"></a>
 
 1. Different difficulties: Easy, Medium and Hard
 2. Undo last action
@@ -20,7 +20,7 @@ This is a cross-platform (both desktop and mobile) Sudoku Qt Quick application. 
 7. New game - start new game with the same difficulty
 8. Adaptive design both for desktops and mobile phones
 
-## Android <a name = "Android"></a>
+## Android <a name = "android"></a>
 
 You can download this app: [Download .apk installer for Android](https://drive.google.com/uc?export=download&id=1u5SSjrrYMid69TK2etZfdfRmCtFpRxmz)
 
@@ -36,7 +36,7 @@ Application appearance:
     <img src="https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/d0bbec17-726e-401e-98d9-c5fdf5c10fd8" alt="SudokuAndroid" style="width: 50%;">
 </p>
 
-## Windows <a name = "Windows"></a>
+## Windows <a name = "windows"></a>
 
 You can download this app: [Download .exe installer for Windows](https://drive.google.com/uc?export=download&id=1SYIAYf9q2uGYmGrrCkbewgv1m3bx2CoC)
 
@@ -48,6 +48,6 @@ Application appearance:
 
 ![Sudoku](https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/c942e82b-54c7-4246-836b-3cb789724060)
 
-## License <a name = "License"></a>
+## License <a name = "license"></a>
 
 [License](https://github.com/vladislav-bordiug/sudoku_qt_quick/blob/main/LICENSE) - this project is licensed under GPL-3.0 license.
