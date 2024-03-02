@@ -7,18 +7,20 @@ This is a cross-platform (both desktop and mobile) Sudoku Qt Quick application. 
 + [Features](#features)
 + [Android](#android)
 + [Windows](#windows)
++ [Resources](#resources)
 + [License](#license)
 
 ## Features <a name = "features"></a>
 
-1. Different difficulties: Easy, Medium and Hard
-2. Undo last action
-3. Redo last action
-4. Clear cell
-5. Clear all cells
-6. Solve current sudoku
-7. New game - start new game with the same difficulty
-8. Adaptive design both for desktops and mobile phones
++ Different difficulties: Easy, Medium and Hard
++ Conflict detection
++ Undo last action
++ Redo last action
++ Clear cell
++ Clear all cells
++ Solve current sudoku
++ New game - start new game with the same difficulty
++ Responsive design for both desktops and mobile phones
 
 ## Android <a name = "android"></a>
 
@@ -47,6 +49,10 @@ Application appearance:
 ![image](https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/925d2241-6f6c-4ce5-9a9e-737d81eeb0ce)
 
 ![Sudoku](https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/c942e82b-54c7-4246-836b-3cb789724060)
+
+## Resources <a name = "resources"></a>
+
+[Qt Open Source](https://www.qt.io/download-open-source)
 
 ## License <a name = "license"></a>
 
