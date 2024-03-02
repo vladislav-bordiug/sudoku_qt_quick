@@ -7,6 +7,7 @@ This is a cross-platform (both desktop and mobile) Sudoku Qt Quick application. 
 + [Features](#features)
 + [Android](#android)
 + [Windows](#windows)
++ [Build and run](#buildandrun)
 + [Resources](#resources)
 + [License](#license)
 
@@ -49,6 +50,13 @@ This is a cross-platform (both desktop and mobile) Sudoku Qt Quick application. 
 ![image](https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/925d2241-6f6c-4ce5-9a9e-737d81eeb0ce)
 
 ![Sudoku](https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/c942e82b-54c7-4246-836b-3cb789724060)
+
+## Build and run <a name = "buildandrun"></a>
+
+To build and run, use Qt Creator, which you can [download here](https://www.qt.io/download):
+
+1. Click "Open Project..." in Qt and open the project file, CMakeLists.txt in the project root.
+2. Build the project.
 
 ## Resources <a name = "resources"></a>
 
