@@ -41,7 +41,7 @@ This is a cross-platform (both desktop and mobile) Sudoku Qt Quick application. 
 
 ## Windows <a name = "windows"></a>
 
-+ You can download this app: [Download .exe installer for Windows](https://drive.google.com/uc?export=download&id=1SYIAYf9q2uGYmGrrCkbewgv1m3bx2CoC)
++ You can download this app: [Download .exe installer for Windows](https://drive.google.com/uc?export=download&id=1eLZhGQBZwJSahUfGGmbCjIZXkFCio2hb)
 
 + Application appearance:
 
