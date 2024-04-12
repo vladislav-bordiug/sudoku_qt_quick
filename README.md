@@ -29,11 +29,11 @@ This is a cross-platform (both desktop and mobile) Sudoku Qt Quick application. 
 
 + Application appearance:
 
-<div>
+<p align="center">
     <img src="https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/d6cd60a3-e2a4-422c-bce0-c3903a5ae79b" alt="Image 1" style="width: 48%;">
     &nbsp;&nbsp;
     <img src="https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/5df98ce7-566e-4eba-8b83-0ed4db7ef591" alt="Image 2" style="width: 48%;">
-</div>
+</p>
 
 <p align="center">
     <img src="https://github.com/vladislav-bordiug/sudoku_qt_quick/assets/60838512/d0bbec17-726e-401e-98d9-c5fdf5c10fd8" alt="SudokuAndroid" style="width: 50%;">
